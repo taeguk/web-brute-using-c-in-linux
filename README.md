@@ -15,4 +15,4 @@ Files :
 
 Result : 
 
-              epoll.c or epoll_using_stl.cpp is almost best choice. (thread.c have almost same performance)
+              epoll.c or epoll_using_stl.cpp is almost best choice. (thread.c have almost same performance!)
